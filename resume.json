@@ -1,0 +1,70 @@
+{
+	"basics": {
+		"name": "Shivansh Yadav",
+		"label": "Student",
+		"picture": "",
+		"email": "2021kucp1019@iiitkota.ac.in",
+		"phone": "9455418890",
+		"website": "",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"profiles": [{
+				"network": "Github",
+				"username": "shivansh yadav",
+				"url": "https://www.github.com/Shiva1508"
+			},
+			{
+				"network": "linkedin",
+				"username": "shivansh yadav",
+				"url": "https://www.linkedin.com/in/shivansh-yadav-314359137/"
+			},
+			{
+				"network": "Instagram",
+				"username": "shivansh2yadav",
+				"url": "https://www.instagram.com/shivansh2yadav/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "",
+		"endDate": "",
+		"gpa": "",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"name": "Full Stack Development",
+		"level": "Master",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript",
+			"C",
+			"Python",
+			"Video editing"
+		]
+	}],
+	"languages": [{
+		"language": "English"
+	}, {
+		"language": "Hindi"
+	}],
+	"interests": [{
+			"name": "Video Game",
+			"keywords": [
+				"Valorant",
+				"League of legend"
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Chess",
+				"Football"
+			]
+		}
+	]
+}
